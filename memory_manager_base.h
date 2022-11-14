@@ -46,8 +46,8 @@ virtual int allocate(int size, string name) = 0;
         
         // Data structure to keep track of allocated memory
         struct memory_block {
-            // Define the data members in this structure that will keep track
-            // of the available blocks of memory.
+            // TODO: Define the data members in this structure that will keep track
+            //       of the available blocks of memory.
         }; 
 
         // List of blocks of memory
